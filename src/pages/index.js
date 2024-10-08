@@ -39,7 +39,7 @@ export default function Home() {
             <li>
               Ge stated by editing <code>src/pages/index.js</code>.
             </li>
-            <li>Sa and see you changes istantly.</li>
+            <li>Sa and sdee you changes istantly.</li>
           </ol>
 
           <div className={styles.ctas}>
