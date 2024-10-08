@@ -37,9 +37,9 @@ export default function Home() {
           />
           <ol>
             <li>
-              Ge started by editing <code>src/pages/index.js</code>.
+              Ge stated by editing <code>src/pages/index.js</code>.
             </li>
-            <li>Sa and see your changes instantly.</li>
+            <li>Sa and see your changes istantly.</li>
           </ol>
 
           <div className={styles.ctas}>
