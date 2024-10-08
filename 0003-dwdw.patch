@@ -1,0 +1,29 @@
+From 6bcd599b95902aa309e0b0ff3acfbeb62306ce21 Mon Sep 17 00:00:00 2001
+From: Rinat Kov <frommrinat@gmail.com>
+Date: Tue, 8 Oct 2024 12:13:08 +0200
+Subject: [PATCH 3/8] dwdw :wq
+
+:wq
+---
+ src/pages/index.js | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/pages/index.js b/src/pages/index.js
+index e51ab12..f6a4e36 100644
+--- a/src/pages/index.js
++++ b/src/pages/index.js
+@@ -37,9 +37,9 @@ export default function Home() {
+           />
+           <ol>
+             <li>
+-              Ge started by editing <code>src/pages/index.js</code>.
++              Ge stated by editing <code>src/pages/index.js</code>.
+             </li>
+-            <li>Sa and see your changes instantly.</li>
++            <li>Sa and see your changes istantly.</li>
+           </ol>
+ 
+           <div className={styles.ctas}>
+-- 
+2.39.3 (Apple Git-146)
+

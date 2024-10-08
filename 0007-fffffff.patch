@@ -1,0 +1,23 @@
+From dc7423c93cf2acf593aa4aa0df5357db073fb3c7 Mon Sep 17 00:00:00 2001
+From: Rinat Kov <frommrinat@gmail.com>
+Date: Tue, 8 Oct 2024 19:56:31 +0200
+Subject: [PATCH 7/8] fffffff
+
+---
+ src/pages/api/hello.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/pages/api/hello.js b/src/pages/api/hello.js
+index 07de1d6..6c6c4ef 100644
+--- a/src/pages/api/hello.js
++++ b/src/pages/api/hello.js
+@@ -1,5 +1,5 @@
+ // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+ 
+ export default function handler(req, res) {
+-  res.status(200).json({ name: "Joh Do1q" });
++  res.status(200).json({ name: "qoh Do1q" });
+ }
+-- 
+2.39.3 (Apple Git-146)
+
